@@ -10,3 +10,5 @@ sudo apt-get install coffeescript
 sudo apt-get install vim-gtk
 sudo apt-get install nodejs
 
+#Flash player
+sudo apt-get install ubuntu-restricted-extras
