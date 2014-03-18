@@ -1,3 +1,6 @@
+#git
+sudo apt-get install git
+
 #Node
 sudo apt-get install nodejs
 sudo apt-get install npm
